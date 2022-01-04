@@ -1156,6 +1156,14 @@
             "index": "pypi",
             "version": "==0.8.1"
         },
+        "sqlfluff-templater-dbt": {
+            "hashes": [
+                "sha256:225fbc024397fd4830e1eb3eeb96b9455edcd73d0802765663811381275e588f",
+                "sha256:8dea61e7e3c2284aa226fd552f60dc8c6a0192d3edce33d6995f35f48e1d0fa3"
+            ],
+            "index": "pypi",
+            "version": "==0.8.1"
+        },
         "stopit": {
             "hashes": [
                 "sha256:f7f39c583fd92027bd9d06127b259aee7a5b7945c1f1fa56263811e1e766996d"
